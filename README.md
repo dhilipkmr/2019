@@ -1,13 +1,13 @@
 # 2019 Technical Updates Overview
 
 ### JANUARY
-15 - Published <a href="https://exspensesmgr.herokuapp.com/login" target="_blank">Expenses Manager App</a> [REPO](https://github.com/dhilipkmr/expense)
+15 - Published <a href="https://exspensesmgr.herokuapp.com/login" target="_blank">Expenses Manager App</a> || [REPO](https://github.com/dhilipkmr/expense)
 
-23 - First technical Blog on Medium about [Ripple Effect using React](https://medium.com/@dhilipkmr/ripple-in-react-3162875cc9af "Ripple using React") [REPO](https://github.com/dhilipkmr/ripple-react)
+23 - First technical Blog on Medium about [Ripple Effect using React](https://medium.com/@dhilipkmr/ripple-in-react-3162875cc9af "Ripple using React") || [REPO](https://github.com/dhilipkmr/ripple-react)
 
 26 - Attended React Hooks Meetup, Bangalore.
 
-27 - First Publication of [ripple-react](https://www.npmjs.com/package/ripple-react) module to npm [REPO](https://github.com/dhilipkmr/ripple-react)
+27 - First Publication of [ripple-react](https://www.npmjs.com/package/ripple-react) module to npm || [REPO](https://github.com/dhilipkmr/ripple-react)
 
 30 - Published my First personal Chrome Extension to [Auto fill passenger details](https://chrome.google.com/webstore/detail/goibibo-pax-filler/lnfnnnehcpakknabejnlhmiadophihnb?authuser=1)for Goibibo
 
