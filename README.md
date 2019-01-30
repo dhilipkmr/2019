@@ -9,6 +9,6 @@
 
 27 - First Publication of [ripple-react](https://www.npmjs.com/package/ripple-react) module to npm || [REPO](https://github.com/dhilipkmr/ripple-react)
 
-30 - Published my First personal Chrome Extension to [Auto fill passenger details](https://chrome.google.com/webstore/detail/goibibo-pax-filler/lnfnnnehcpakknabejnlhmiadophihnb?authuser=1)for Goibibo
+30 - Published my First personal Chrome Extension to [Auto fill passenger details](https://chrome.google.com/webstore/detail/goibibo-pax-filler/lnfnnnehcpakknabejnlhmiadophihnb?authuser=1) for Goibibo
 
 30 - Chrome Extension to Show movie's IMDB ratings and other meta info on hover has been published and was in Review.
