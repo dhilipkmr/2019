@@ -1,6 +1,6 @@
-### 2019 Technical Updates Overview
+# 2019 Technical Updates Overview
 
-# JANUARY
+### JANUARY
 15 - Published <a href="https://exspensesmgr.herokuapp.com/login" target="_blank">Expenses Manager App</a>
 
 23 - First technical Blog on Medium about [Ripple Effect using React](https://medium.com/@dhilipkmr/ripple-in-react-3162875cc9af "Ripple using React")
