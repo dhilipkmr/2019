@@ -5,6 +5,8 @@
 
 23 - First technical Blog on Medium about [Ripple Effect using React](https://medium.com/@dhilipkmr/ripple-in-react-3162875cc9af "Ripple using React")
 
+26 - Attended React Hooks Meetup, Bangalore.
+
 27 - First Publication of [ripple-react](https://www.npmjs.com/package/ripple-react) module to npm
 
 30 - Published my First personal Chrome Extension to [Auto fill passenger details](https://chrome.google.com/webstore/detail/goibibo-pax-filler/lnfnnnehcpakknabejnlhmiadophihnb?authuser=1)for Goibibo
