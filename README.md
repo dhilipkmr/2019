@@ -26,3 +26,5 @@
 Made it Responsive, Cached resources, Lazy loaded images and on reaching end of the page made next Api call to load susequent posts. || [REPO](https://github.com/dhilipkmr/reddit-modern) 
 
 5 - Chrome Extension for [IMDb on hover](https://chrome.google.com/webstore/detail/imdb-ratings-on-hover/aodmmndimojddogmhmpaemocbibnimkl?authuser=1) got published in Chrome Web Store
+
+7 - Published [Technical blog](https://bit.ly/2RLtxfC) on IMDB on hover extension.
