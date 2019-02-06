@@ -24,3 +24,5 @@
 
 2 - Finished Building Reddit UI and published in heroku as [Reddit-material](https://reddit-material.herokuapp.com/) with just one api(Subreddit) being exposed this is pretty much what I could do.
 Made it Responsive, Cached resources, Lazy loaded images and on reaching end of the page made next Api call to load susequent posts. || [REPO](https://github.com/dhilipkmr/reddit-modern) 
+
+5 - Chrome Extension for [IMDb on hover](https://chrome.google.com/webstore/detail/imdb-ratings-on-hover/aodmmndimojddogmhmpaemocbibnimkl?authuser=1) got published in Chrome Web Store
