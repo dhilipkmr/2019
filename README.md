@@ -34,3 +34,5 @@ Made it Responsive, Cached resources, Lazy loaded images and on reaching end of 
 8 - [Self.getXp](https://docs.google.com/document/d/18qk6gKbQX3it1jloqQKZeVQCU8gAqeim9Uy-jF7vNEY/edit)
 
 9 - [React Meetup#42](https://docs.google.com/document/d/1GVqZ8MoxAKYQQbBLr6lO82ZHMGaVG4YdGfVBdk-6Gbg/edit?usp=sharing) @Inmobi. Why Graphql, Apollo and Hooks
+
+10 - Created Toasts, Enabling and disabling options in IMDB extension.
