@@ -16,7 +16,7 @@
 
 30 - Chrome Extension to Show movie's IMDB ratings and other meta info on hover has been published and was in Review.
 
-31 - Meesho - Started building my version of Reddit User Interface.
+31 - Started building my version of Reddit User Interface.
 
 ========================================================================================
 
