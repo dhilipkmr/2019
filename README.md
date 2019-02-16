@@ -39,3 +39,5 @@ Made it Responsive, Cached resources, Lazy loaded images and on reaching end of 
 
 12 - A Song App using Basic Operations with React, MongoDb, ApolloClient and GraphQL. [REPO](https://github.com/dhilipkmr/Lyrical-GraphQL)
 ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advanced/caching.html)
+
+15 - Worked on implementing the new UI changes done to [Desktop Web Goibibo landing/flights Page](https://www.goibibo.com). Introduced deferred image loading for carousels for better loading speed, Parallax effect and fading in effect on the background image and on-page anchor scroll.Other Details [here](https://drive.google.com/drive/folders/1ehtYuNT0T3XnSJDGdy5BXDjFlGuo3nTK)
