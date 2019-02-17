@@ -41,3 +41,7 @@ Made it Responsive, Cached resources, Lazy loaded images and on reaching end of 
 ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advanced/caching.html)
 
 15 - Worked on implementing the new UI changes done to [Desktop Web Goibibo landing/flights Page](https://www.goibibo.com). Introduced deferred image loading for carousels for better loading speed, Parallax effect and fading in effect on the background image and on-page anchor scroll.Other Details [here](https://drive.google.com/drive/folders/1ehtYuNT0T3XnSJDGdy5BXDjFlGuo3nTK)
+
+16 - Content Reviewer qualifying for HackerRank [Repo](https://github.com/dhilipkmr/ceasercipher) [Review](https://docs.google.com/document/d/1pL5byF-atIrQnMeLvPCSYC9jh1JfIvzDwyiuYMimM7I/edit)
+
+17 - Understanding Authentication using GraphQl and passport. [Repo](https://github.com/dhilipkmr/auth_gql)
