@@ -52,7 +52,7 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 
 24 - Started learning [Gatsby.js](https://github.com/dhilipkmr/gatsby_crash_course)
 
-25 - A technical Blog on React hooks
+25 - Started writing a technical Blog on React hooks.
 
 
 ========================================================================================
