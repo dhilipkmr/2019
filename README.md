@@ -1,6 +1,6 @@
 # 2019 Technical Updates Overview
 
-========================================================================================
+=======================================================================================
 
 ### January
 
@@ -65,8 +65,16 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 
 16 - An implementation of [Meeting Scheduler](https://github.com/dhilipkmr/webapp-samples/blob/master/images/pdf/CraftDemo_%20UI%20_%20React%20JS.pdf) using React || [Repo])(https://github.com/dhilipkmr/booking)
 
-17 - Began my own Blog implementation using Gatsbyjs
+17 - Began my own Blog implementation using Gatsby with GraphQL
+
+25 - Published a blog on [Carousels](https://medium.com/@dhilipkmr/react-hooks-carousel-200d0f5a042)
+
+27 - Attended Google Chrome Performance Meetup at Google India,bangalore
+
+27 - Published another blog on [Creating our own Array.map() method](https://medium.com/@dhilipkmr/array-map-bf7656c1a050)
 
 
+=======================================================================================
 
+### April
 
