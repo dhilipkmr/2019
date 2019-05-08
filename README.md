@@ -1,6 +1,6 @@
 # 2019 Technical Updates Overview
 
-=======================================================================================
+======================================================================================
 
 ### January
 
@@ -55,7 +55,7 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 25 - Started writing a technical Blog on React hooks.
 
 
-=======================================================================================
+======================================================================================
 
 ### March
 
@@ -74,7 +74,7 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 27 - Published another blog on [Creating our own Array.map() method](https://medium.com/@dhilipkmr/array-map-bf7656c1a050)
 
 
-=======================================================================================
+======================================================================================
 
 ### April
 
@@ -92,10 +92,14 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 
 26 - Blog on Javascript [Memoization](https://dev.to/dhilipkmr/understand-how-to-memoize-a-javascript-function-3gal)
 
+======================================================================================
+
 ### May
 
 01 - Blog on [Scroll Indicator](https://dev.to/dhilipkmr/the-scroll-indicator-52dg)
 
 08 - Blog on [Creating custom split() method](https://dev.to/dhilipkmr/implementing-our-own-split-in-javascript-ii7)
+
+======================================================================================
 
 
