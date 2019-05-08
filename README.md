@@ -78,4 +78,24 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 
 ### April
 
-#### Loading...
+01 - Blog on [Cursor Imitator](https://dev.to/dhilipkmr/cursor-imitator-2p0j)
+
+12 - [Self.getXp - FK-INT]
+
+13 - Published my First website live at [www.dhilipkmr.dev](https://www.dhilipkmr.dev)
+
+16 - [Self.getXp - FK-INT]
+
+19 - Blog on [Loading Shimmer](https://dev.to/dhilipkmr/the-loading-shimmer-29dc)
+
+26 - [Self.getXp - MYN-INT]
+
+26 - Blog on Javascript [Memoization](https://dev.to/dhilipkmr/understand-how-to-memoize-a-javascript-function-3gal)
+
+### May
+
+01 - Blog on [Scroll Indicator](https://dev.to/dhilipkmr/the-scroll-indicator-52dg)
+
+08 - Blog on [Creating custom split() method](https://dev.to/dhilipkmr/implementing-our-own-split-in-javascript-ii7)
+
+
