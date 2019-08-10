@@ -100,6 +100,10 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 
 08 - Blog on [Creating custom split() method](https://dev.to/dhilipkmr/implementing-our-own-split-in-javascript-ii7)
 
+15 - Vanila JS implementation of a Reminder APP [Repo](https://github.com/dhilipkmr/reminder)
+
+25 - Started building Website for a Trust [REPO](https://github.com/dhilipkmr/trust)
+
 ======================================================================================
 
 
@@ -107,9 +111,20 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 
 06 - Blog on [Finding Max Path Data Structures](https://dev.to/dhilipkmr/find-max-paths-to-last-index-in-a-2d-matrix-in-javascript-4li6)
 
+10 - Vanila Js Implementation of Flight adding Web App. [REPO](https://github.com/dhilipkmr/Flighter)
+
+20 - Meeting Scheduler App in Vanila JS. [REPO](https://github.com/dhilipkmr/meetingScheduler)
+
+22 - Phone Directory creation in Vanila JS. [Repo](https://github.com/dhilipkmr/phone-medium)
+
+29 - Youtube Play Next Extension. [REPO](https://github.com/dhilipkmr/youtube-next)
+
+
 ======================================================================================
 
 ### August
+
+05 - Hands on Intersection observor. [Repo](https://github.com/dhilipkmr/intersection_observer)
 
 06 - Blog on [Infinite Scroller In React](https://dev.to/dhilipkmr/creating-infinite-scroll-with-15-elements-4dg4)
 
