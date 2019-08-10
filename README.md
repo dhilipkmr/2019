@@ -103,3 +103,14 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 ======================================================================================
 
 
+### June
+
+06 - Blog on [Finding Max Path Data Structures](https://dev.to/dhilipkmr/find-max-paths-to-last-index-in-a-2d-matrix-in-javascript-4li6)
+
+======================================================================================
+
+### August
+
+06 - Blog on [Infinite Scroller In React](https://dev.to/dhilipkmr/creating-infinite-scroll-with-15-elements-4dg4)
+
+======================================================================================
