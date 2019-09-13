@@ -128,4 +128,12 @@ ASSET REFERENCE: [Apollo cache](https://www.apollographql.com/docs/react/advance
 
 06 - Blog on [Infinite Scroller In React](https://dev.to/dhilipkmr/creating-infinite-scroll-with-15-elements-4dg4)
 
+15 - Blog on [Optional Chaining](https://dev.to/dhilipkmr/optional-chaining-in-javascript-1175)
+
+17 - Blog on ["rel = noopner"](https://dev.to/dhilipkmr/why-should-you-use-noopener-beware-of-security-flaws-3i57)
+
+======================================================================================
+
+### September
+
 ======================================================================================
